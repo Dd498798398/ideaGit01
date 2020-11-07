@@ -12,5 +12,6 @@ public class Tspring {
         System.out.println("");
 
         String s = ":";
+        int a = 1;
     }
 }
